@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 🚀
+## Welcome to my GitHub
 
 Experienced System Administrator with a demonstrated history of working in the telecommunications industry. Skilled in Oracle Database, Microsoft Word, PHP, Sales, and Java. Strong information technology professional with a B.Sc focused in Computer Sciennce & Engineering from Islamic University Of Technology(IUT). 
 
