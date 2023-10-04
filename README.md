@@ -16,7 +16,7 @@ Experienced System Administrator with a demonstrated history of working in the t
 |PROJECTS | DESCRIPTION | TECHNOLOGIES| 
 | ------ | ------ | ------ |
 | <a href="https://documenter.getpostman.com/view/11483431/2s8Z73xVnP" target="_blank">Social Media Api</a> | IOS App (Api Development), Deployed on EC2, S3 Bucket Storage | Node, Express, MongoDB |
-| <a href="https://documenter.getpostman.com/view/11483431/2s9YC32Zpi" target="_blank">Blog Rest Api</a> | Auth, Roles, Followers, Categories, Tags, Blogs, Notifications, Likes, Comments, Analytics | Node, Express, MongoDB |
+| <a href="https://github.com/shuvosaif/school-management-api" target="_blank">School Management Rest Api</a> | Auth, Admins, Teachers, Students, Parents, Classes, Subjects, Events, Notifications, Attendance, Exams, Marks | Node, Express, MongoDB |
 
 
  
