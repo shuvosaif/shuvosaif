@@ -15,12 +15,11 @@ Experienced System Administrator with a demonstrated history of working in the t
 
 |PROJECTS | DESCRIPTION | TECHNOLOGIES| 
 | ------ | ------ | ------ |
-| <a href="https://documenter.getpostman.com/view/11483431/2s8Z73xVnP" target="_blank">Youline</a> | IOS App (Api Development), Deployed on EC2, S3 Bucket Storage | Node, Express, MongoDB |
-| <a href="https://documenter.getpostman.com/view/11483431/2s9YC32Zpi" target="_blank">Blog Api</a> | Auth, Roles, Followers, Categories, Tags, Blogs, Notifications, Likes, Comments, Analytics | Node, Express, MongoDB |
-| <a href="https://documenter.getpostman.com/view/11483431/2s9YC32Zu5" target="_blank">School Management (SMS)</a> | Auth, Admins, Teachers, Students, Parents, Classes, Subjects, Events, Notifications, Attendance, Exams, Marks | Node, Express, MongoDB |
+| <a href="https://documenter.getpostman.com/view/11483431/2s8Z73xVnP" target="_blank">Social Media Api</a> | IOS App (Api Development), Deployed on EC2, S3 Bucket Storage | Node, Express, MongoDB |
+| <a href="https://documenter.getpostman.com/view/11483431/2s9YC32Zpi" target="_blank">Blog Rest Api</a> | Auth, Roles, Followers, Categories, Tags, Blogs, Notifications, Likes, Comments, Analytics | Node, Express, MongoDB |
+
 
  
 ### ☕ Find me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvo-saif-037867107/) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvo-saif-037867107/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvo.cse12@gmail.com)
