@@ -17,7 +17,9 @@ Experienced System Administrator with a demonstrated history of working in the t
 | ------ | ------ | ------ |
 | <a href="https://documenter.getpostman.com/view/27291640/2s9YJdVhCP" target="_blank">Social Media Api</a> | IOS App (Api Development), Deployed on EC2, S3 Bucket Storage | Node, Express, MongoDB |
 | <a href="https://github.com/shuvosaif/school-management-api" target="_blank">School Management Rest Api</a> | Auth, Admins, Teachers, Students, Parents, Classes, Subjects, Events, Notifications, Attendance, Exams, Marks | Node, Express, MongoDB |
-
+| <a href="https://aiqlick.com/" target="_blank">AiQlick- Resume Management System</a> | Resume Management System  | React, Redux, Node, Express, MongoDB |
+| <a href="http://103.107.184.159:5000/" target="_blank">Charity</a> | Charity Management System  | React, Redux, Node, Express, MongoDB |
+| <a href="https://aiqlick.com/" target="_blank">Chat</a> | Chatting Application MVC | Ejs, Node, Express, MongoDB |
 
  
 ### ☕ Find me
